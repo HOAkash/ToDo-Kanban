@@ -2,7 +2,7 @@ import React from 'react';
 
 export const initialBoard = {
   columns: {
-    todo: { id: "todo", title: "To Do", tasks: ["Task 1", "Task 2"] },
+    todo: { id: "todo", title: "To Do", tasks: [] },
     progress: { id: "progress", title: "In Progress", tasks: [] },
     done: { id: "done", title: "Done", tasks: [] }
   },
