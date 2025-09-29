@@ -1,0 +1,62 @@
+body{
+  background: linear-gradient(135deg, #1b9922, #6242e4);
+}
+
+.main{
+    margin-top: -270px;
+}
+
+h2{
+    color: blueviolet;
+}
+
+.board{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    height: auto;
+    width: 100%;
+    background-color: aquamarine;
+    color: blue;
+}
+.board1{
+    height: 300px;
+    margin: 10px;
+    width: 350px;
+    background-color: brown;
+    border-radius: 15px;
+}
+.board2{
+    height: 300px;
+    margin: 10px;
+    width: 350px;
+    background-color: rgb(176, 213, 30);
+      border-radius: 15px;
+}
+
+.board3{
+    height: 300px;
+    margin: 10px;
+    width: 350px;
+    background-color: rgb(14, 231, 39);
+      border-radius: 15px;
+}
+
+.board4{
+    height: 300px;
+    margin: 10px;
+    width: 250px;
+    background-color: rgb(244, 246, 244);
+    border-style: dotted;
+    border-color: red;
+      border-radius: 15px;
+}
+.input{
+    margin-right: 15px;
+    background-color: aliceblue;
+    color: black;
+    width: 500px;
+    height: 35px;
+    border-radius: 20px;
+}
